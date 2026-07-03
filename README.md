@@ -1,4 +1,4 @@
-# Methylation project
+# Long-read metagenomics and methylation-based binning support the discovery of antibiotic resistance gene–host associations in complex communities
 
 ## *Preprint:* [DOI 🔗](https://doi.org/10.64898/2026.02.18.26346558)
 
