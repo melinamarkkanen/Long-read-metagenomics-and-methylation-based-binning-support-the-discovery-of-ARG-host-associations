@@ -2,9 +2,6 @@
 
 ## *Preprint:* [DOI 🔗](https://doi.org/10.64898/2026.02.18.26346558)
 
-## License
-##### This repository is licensed under the GNU General Public License v3.0 (GPL-3.0). See the LICENSE file for details.
-
 ## Contents
 - [Data](#Data)
 - Analysis steps for [Synthetic community](./HAMBI_analyses/README.md)
@@ -107,3 +104,6 @@
 | SLU1 | sludge |
 | SLU2 | sludge |
 | SLU3 | sludge |
+
+## License
+##### This repository is licensed under the GNU General Public License v3.0 (GPL-3.0). See the LICENSE file for details.
