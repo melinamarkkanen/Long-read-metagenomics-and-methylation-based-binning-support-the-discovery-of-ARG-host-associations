@@ -3,7 +3,7 @@
 ## *Preprint:* [DOI 🔗](https://doi.org/10.64898/2026.02.18.26346558)
 
 ## License
-### This repository is licensed under the GNU General Public License v3.0 (GPL-3.0). See the LICENSE file for details.
+##### This repository is licensed under the GNU General Public License v3.0 (GPL-3.0). See the LICENSE file for details.
 
 ## Contents
 - [Data](#Data)
